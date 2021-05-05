@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KContacts</string>
+    <string name="surname">Surname</string>
+    <string name="name">Name</string>
+    <string name="phone">+7-***-***-**-**</string>
+    <string name="loading">Loading...</string>
+    <string name="edit_contact">Edit contact</string>
+    <string name="delete_contact">Delete contact</string>
+</resources>
